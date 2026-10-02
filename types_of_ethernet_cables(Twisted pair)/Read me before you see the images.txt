@@ -1,0 +1,7 @@
+This folder talks about the types of twisted pair and how can diffrenciate between them and the second part talks about the types of ethernet cable. This will help to deal with connecting devices between each other in a correct way.
+after reading this file go to:
+-image number 1
+-image number 2
+-image number 3
+-image number 4
+-image number 5
